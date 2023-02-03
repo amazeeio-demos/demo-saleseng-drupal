@@ -1,0 +1,16 @@
+uuid: 23f19da5-64cc-4bd1-b917-1a4663d76922
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hzgvcRgZHltqWf8hBmttoWh95tCJoPL25lPq9YSIRsY
+id: video
+label: Video
+description: 'A locally hosted video file.'
+source: video_file
+queue_thumbnail_downloads: false
+new_revision: true
+source_configuration:
+  source_field: field_media_video_file
+field_map:
+  name: name
