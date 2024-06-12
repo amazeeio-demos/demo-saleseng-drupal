@@ -73,9 +73,6 @@ display:
             alt: 'Editar {{ nombre }}'
           text: Editar
         delete_media:
-          alter:
-            text: 'Borrar {{ nombre }}'
-            alt: 'Borrar {{ nombre }}'
           text: Eliminar
   widget:
     display_title: Control
